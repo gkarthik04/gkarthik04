@@ -1,13 +1,9 @@
 <div align="center">
 
-# Hi, I'm Karthik 👋
+<img src="assets/header.svg" alt="G Sai Karthikeya — AI/ML Engineer" width="100%" />
 
-<a href="https://gkarthik04.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=AI%2FML+Engineer+in+the+making;Deep+Learning+%C2%B7+NLP+%C2%B7+RAG;Shipping+models+behind+real+APIs" alt="Typing intro" />
-</a>
-
-**B.Tech CSE (AI/ML) @ SRM University AP** · CGPA 9.27 / 10 · Graduating 2027 · Vijayawada, India
-
+<sub>📍 Vijayawada, India &nbsp;·&nbsp; 🎓 CGPA 9.27 / 10 &nbsp;·&nbsp; 🟢 Open to 2027 internships & full-time roles</sub>
+<br/><br/>
 <a href="https://gkarthik04.github.io"><img src="https://img.shields.io/badge/Portfolio-gkarthik04.github.io-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 <a href="https://linkedin.com/in/g-sai-karthikeya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:gkarthikeya2005@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
