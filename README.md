@@ -94,15 +94,6 @@ End-to-end Razorpay Standard Checkout in test mode: Orders API, HMAC-SHA256 sign
 
 ---
 
-### 📊 GitHub activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gkarthik04&show_icons=true&hide_border=true&theme=transparent&title_color=2F81F7&icon_color=2F81F7&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkarthik04&layout=compact&hide_border=true&theme=transparent&title_color=2F81F7&langs_count=6" />
-</div>
-
----
-
 <div align="center">
 <sub>Always happy to talk about ML systems, research ideas or internship opportunities — reach me on <a href="https://linkedin.com/in/g-sai-karthikeya/">LinkedIn</a> or by <a href="mailto:gkarthikeya2005@gmail.com">email</a>.</sub>
 </div>
