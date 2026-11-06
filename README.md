@@ -15,8 +15,8 @@
 ### 🧠 About me
 
 - 🎓 Final-year CSE student specialising in **AI/ML**, focused on deep learning, NLP and LLM systems.
-- 🔬 **Research Intern @ SRM University AP** — built an end-to-end **RAG** pipeline (Sentence-Transformers retrieval + Flan-T5 generation, FAISS) for question answering on SQuAD.
-- 🩻 Working on **cross-scanner ACL tear detection** from knee MRI using multi-view deep learning — being prepared for journal submission.
+- 🔬 Was a **Research Intern @ SRM University AP** (Jun – Aug 2025) — built an end-to-end **RAG** pipeline (Sentence-Transformers retrieval + Flan-T5 generation, FAISS) for question answering on SQuAD.
+- 🩻 Built a **cross-scanner ACL tear detection** system from knee MRI using multi-view deep learning (Val AUC 0.954), completed in April 2026.
 - 🛠️ I like taking a model all the way: data → training → explainability → a REST API someone can actually call.
 - 🎯 **Open to** ML/AI Engineer, SDE, and Solutions Engineer roles — 6-month internships and full-time (2027).
 - 📜 Oracle Certified **Java SE 17** Developer.
